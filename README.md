@@ -26,7 +26,8 @@ $ python main.py
 
 ### - *💥 Example 💥:*
 ```python
-print("Hello World")
+Text = "Kontol"
+print("Mukalu Kaya", Text)
 ```
 
 ### - *👾 Obfuscated 👾:*
